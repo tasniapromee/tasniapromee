@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tasnia Rahman Prome</h1>
-<h3 align="center">A passionate tech-savvy from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Tasnia Rahman Promee</h1>
+<h3 align="center">from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasniapromee&label=Profile%20views&color=0e75b6&style=flat" alt="tasniapromee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasniapromee" alt="tasniapromee" /></a> </p>
-
-- 🔭 I’m currently working on **Line follower robot**
-
-- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **wev development and arduino**
 
